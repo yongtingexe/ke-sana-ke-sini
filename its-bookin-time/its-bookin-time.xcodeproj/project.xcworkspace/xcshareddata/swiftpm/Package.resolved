@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "eureka",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xmartlabs/Eureka.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ba4ebbcc4e368e901de666870fc2a4524474a4c7"
+      }
+    },
+    {
+      "identity" : "imagerow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EurekaCommunity/ImageRow.git",
+      "state" : {
+        "revision" : "5682215c037bc5ff9b9b9ddb219f906f078e4c25",
+        "version" : "4.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
